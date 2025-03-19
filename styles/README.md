@@ -1,4 +1,4 @@
-# Portfólio Rezini Martins
+# Portfólio Reziani Martins
 
 Este arquivo tem informações do site de Reziani Martins
 
