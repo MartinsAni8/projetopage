@@ -2,7 +2,6 @@
 
 [Este arquivo tem informações do site de Reziani Martins](https://github.com/MartinsAni8/projetopage/blob/main/assets/Anima%C3%A7%C3%A3o%20(1).gif)
 
-
 ## Tecnologias Utilizadas
 
 * HTML5
@@ -48,7 +47,3 @@ O CSS usa várias variáveis para definir cores e fontes. Essas variáveis são 
 ## Media Queries
 
 O arquivo `style.css` inclui duas media querys que ajusta o layout para telas menores que 1200px de largura e menos que 768px.
-
-
-
-
