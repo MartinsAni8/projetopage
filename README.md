@@ -1,6 +1,6 @@
 # Portfólio Reziani Martins
 
-[Este arquivo tem informações do site de Reziani Martins](https://github.com/MartinsAni8/projetopage/blob/main/assets/Anima%C3%A7%C3%A3o%20(1).gif?raw=true)
+[Este arquivo tem informações do site de Reziani Martins](https://github.com/MartinsAni8/projetopage/blob/main/assets/Anima%C3%A7%C3%A3o%20(1).gif)
 
 ## Tecnologias Utilizadas
 
