@@ -1,0 +1,10 @@
+# Arquivos do sistema (Windows e macOS)
+.DS_Store
+Thumbs.db
+
+# Configurações locais do VS Code
+.vscode/
+
+# Logs e caches
+*.log
+npm-debug.log*
